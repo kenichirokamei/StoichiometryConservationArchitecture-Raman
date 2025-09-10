@@ -8,7 +8,7 @@ authors:
 title: "Code and data for \"Revealing global stoichiometry conservation architecture in cells from Raman spectral patterns\""
 doi: "10.5281/zenodo.17090710"
 url: "https://github.com/kenichirokamei/StoichiometryConservationArchitecture-Raman"
-message: "If you use this software, please cite both the article from preferred-citation and the software itself."
+message: "If you use this code, please cite both the code itself and the related article in preferred-citation of CITATION.cff."
 preferred-citation:
   type: article
   authors:
