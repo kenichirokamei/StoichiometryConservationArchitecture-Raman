@@ -6,7 +6,7 @@ authors:
   affiliation: "The University of Tokyo"
   website: "https://researchmap.jp/kenichirokamei?lang=en"
 title: "Code and data for \"Revealing global stoichiometry conservation architecture in cells from Raman spectral patterns\""
-doi: "10.5281/zenodo.17090711"
+doi: "10.5281/zenodo.17090710"
 url: "https://github.com/kenichirokamei/StoichiometryConservationArchitecture-Raman"
 message: "If you use this software, please cite both the article from preferred-citation and the software itself."
 preferred-citation:
