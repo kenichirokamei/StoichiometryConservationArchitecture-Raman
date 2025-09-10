@@ -5,7 +5,7 @@ authors:
   orcid: "https://orcid.org/0009-0002-8026-4454"
   affiliation: "The University of Tokyo"
   website: "https://researchmap.jp/kenichirokamei?lang=en"
-title: "Code and data for "Revealing global stoichiometry conservation architecture in cells from Raman spectral patterns""
+title: "Code and data for \"Revealing global stoichiometry conservation architecture in cells from Raman spectral patterns\""
 doi: "10.5281/zenodo.17090711"
 url: "https://github.com/kenichirokamei/StoichiometryConservationArchitecture-Raman"
 message: "If you use this software, please cite both the article from preferred-citation and the software itself."
